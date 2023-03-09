@@ -1,0 +1,7 @@
+{
+  "firebase": {
+    "projectId": "chat-bot-shweta",
+    "storageBucket": "chat-bot-shweta.appspot.com",
+    "locationId": "us-central"
+  }
+}
