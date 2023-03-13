@@ -1,4 +1,4 @@
-# GPT-3.5-Dialogflow-bot-with-cloud-fnctions
+# GPT-3.5-Dialogflow-bot-with-cloud-functions
 
 # GC chat integrated Dialogflow bot with openAI API integration project 
 
